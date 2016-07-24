@@ -1,0 +1,7 @@
+# Ignorar copias de seguridad del editor de texto
+*~
+
+# Ignorar archivos terminados en .bak
+*.bak
+
+*.png
